@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Calorie Tracker PCB.PcbDoc   2026-05-06  8:04:14 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : Calorie Tracker PCB-RoundHoles.TXT
+ASCII SlotHoles File : Calorie Tracker PCB-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             226       PTH        39.47inch (1002.50mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.45inch (36.92mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T4      39mil (1mm)                                               Round             4         PTH        0.50inch (12.70mm)
+T5      39mil (1mm)                                               Round             2         NPTH       0.27inch (6.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              238
+
+Total Processing Time (hh:mm:ss) : 00:00:00

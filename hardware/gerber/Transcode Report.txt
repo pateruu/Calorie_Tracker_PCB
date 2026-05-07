@@ -1,0 +1,134 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.G1' ----   Wed May  6 06:54:53 2026
+
+D56   --> D100
+D57   --> D101
+D64   --> D102
+D65   --> D103
+D67   --> D104
+D68   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GBL' ----   Wed May  6 06:54:53 2026
+
+D25   --> D106
+D56   --> D107
+D57   --> D108
+D64   --> D109
+D65   --> D110
+D66   --> D111
+D67   --> D112
+D68   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GBP' ----   Wed May  6 06:54:53 2026
+
+D25   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GBS' ----   Wed May  6 06:54:53 2026
+
+D53   --> D115
+D54   --> D116
+D55   --> D117
+D56   --> D118
+D57   --> D119
+D58   --> D120
+D59   --> D121
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GP1' ----   Wed May  6 06:54:53 2026
+
+D73   --> D122
+D74   --> D123
+D75   --> D124
+D76   --> D125
+D77   --> D126
+D78   --> D127
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GTL' ----   Wed May  6 06:54:53 2026
+
+D18   --> D128
+D19   --> D129
+D20   --> D130
+D22   --> D131
+D23   --> D132
+D24   --> D133
+D25   --> D134
+D27   --> D135
+D28   --> D136
+D29   --> D137
+D30   --> D138
+D31   --> D139
+D32   --> D140
+D33   --> D141
+D34   --> D142
+D35   --> D143
+D36   --> D144
+D56   --> D145
+D57   --> D146
+D64   --> D147
+D65   --> D148
+D66   --> D149
+D67   --> D150
+D68   --> D151
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GTP' ----   Wed May  6 06:54:53 2026
+
+D18   --> D152
+D19   --> D153
+D20   --> D154
+D22   --> D155
+D23   --> D156
+D24   --> D157
+D25   --> D158
+D27   --> D159
+D28   --> D160
+D29   --> D161
+D30   --> D162
+D31   --> D163
+D32   --> D164
+D33   --> D165
+D34   --> D166
+D35   --> D167
+D36   --> D168
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\Calorie Tracker\Project Outputs for Calorie Tracker\Gerber\Calorie Tracker PCB.GTS' ----   Wed May  6 06:54:53 2026
+
+D20   --> D169
+D28   --> D170
+D31   --> D171
+D32   --> D172
+D38   --> D173
+D39   --> D174
+D40   --> D175
+D41   --> D176
+D42   --> D177
+D43   --> D178
+D45   --> D179
+D46   --> D180
+D47   --> D181
+D48   --> D182
+D49   --> D183
+D50   --> D184
+D51   --> D185
+D52   --> D186
+D53   --> D187
+D54   --> D188
+D55   --> D189
+D56   --> D190
+D57   --> D191
+D58   --> D192
+D59   --> D193
+-----------------------------------------------------------------
